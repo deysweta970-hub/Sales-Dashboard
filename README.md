@@ -3,134 +3,127 @@ This dashboard provides a comprehensive visualization of sales performance for t
 #
 <a href="https://github.com/deysweta970-hub/Sales-Dashboard/commit/d9343a837299cfefeafde2091025c72454661317">Sales Dashboard</a>
 # Project Overview
-The Sales Dashboard 2025 provides a complete view of business performance by combining multiple KPIs and visual insights into a single interactive report.
-It helps stakeholders track sales trends, understand profitability, and identify top-performing products, customers, and regions.
-# Problem Statement
 
-A retail company wants to analyze its sales performance for the year 2025 to understand revenue, cost, profit trends, product profitability, customer contribution, and country-wise performance.
-The objective is to identify top-performing products and customers, monitor monthly growth, and improve profitability through data-driven decisions.
+# This project analyzes 2025 sales performance across products, customers, and countries to help business stakeholders understand revenue, cost, and profit trends.
+The dashboard provides a monthly performance view, product-level profitability, customer contribution, and geographic comparison to support strategic decision-making.
 
-#  Objectives
+#  Business Objectives
 
-Track total revenue, total cost, and total profit
+• The key goals of this analysis were:
 
-Analyze monthly sales, cost, and profit trends
+• Monitor total revenue, cost, and profit
 
-Identify most profitable products
+• Identify most profitable products
 
-Compare revenue vs cost by product
+• Compare revenue vs cost to detect margin gaps
 
-Find top customers based on shipping value
+• Analyze top customers by shipping volume
 
-Evaluate country-wise sales and profit performance
+• Evaluate country-wise performance
 
-# Key KPIs
+# Dataset Information
 
-Total Revenue: $350,297
+• Domain: Sales & Business Analytics
 
-Total Cost: $132,924
+• Year: 2025
 
-Total Profit: $217,317
+• Records: 1,000+ transactions
 
-Highest Monthly Revenue: $53,208
+# Key Fields:
 
-Highest Monthly Profit: $36,252
+• Order Date (Monthly)
 
-# Key Insights
- Revenue & Profit Trend
+• Product Category
 
-Sales show a steady upward trend from mid-year with peak performance in September–October.
+• Revenue
 
-Profit follows a similar trend, indicating effective cost control.
+• Cost
 
- Product Profitability
+• Profit
 
-Tablets (23.06%) and Laptops (21.49%) contribute the highest profit share.
+• Customer Name
 
-Monitors (16.06%) generate lower profit, suggesting pricing or cost optimization opportunities.
+• Country
 
- Revenue vs Cost Analysis
-
-Headphones generate high revenue but also incur higher costs.
-
-Tablets and Laptops maintain a strong margin between revenue and cost.
-
-Top Customers
-
-Customers like Oby Sorrel and Wilone O’Kielt contribute significantly to shipping value.
-
-High-value customers should be targeted for loyalty programs.
-
- Country Performance
-
-Italy and Japan show strong profit contribution.
-
-Some countries have high sales but comparatively lower profit, indicating cost inefficiencies.
+• Shipping Quantity
 
 # Tools & Technologies Used
 
-Tableau – Dashboard creation & visualization
+• Excel – Data cleaning and preparation
 
-DAX – Measures for revenue, profit, and KPIs
+• Tableau – Data modeling, DAX calculations, and dashboard creation
 
-Excel – Sales dataset
+# Key KPIs
 
-Data Modeling – Fact & dimension relationships
+• Total Revenue: $350,297
 
-# Dashboard Features
+• Total Cost: $132,924
 
-Interactive monthly trend analysis
+• Total Profit: $217,317
 
-Donut chart for product profit contribution
+• These KPIs provide an instant snapshot of overall business health.
 
-Bar charts for revenue vs cost comparison
+#  Dashboard Insights
+1 Monthly Revenue Trend
 
-Customer & country-level drill-down analysis
+• Revenue increased steadily from February to October
 
-Clean KPI cards for executive overview
+• Peak revenue observed in October ($53,208)
 
-#  Business Recommendations
+• Slight decline toward year-end, indicating seasonal variation
 
-Focus marketing on high-margin products (Tablets & Laptops)
+# Helps management forecast demand and plan inventory.
 
-Improve pricing or supplier negotiation for low-margin products
+2 Monthly Profit Trend
 
-Retain top customers with personalized offers
+• Profit shows strong growth mid-year
 
-Investigate cost structure in low-profit countries
-# Key Features
- 1. Total Revenue Analysis
-Displays yearly revenue ($350K+)
-Monthly revenue trend (Min & Max highlighted)
+• Highest profit recorded in October ($36,252)
 
- 2. Total Cost Analysis
-Shows total operational cost
-Monthly variations visualized through a line chart
+• Drop in profit at year-end highlights need for cost control
 
- 3. Total Profit Tracking
-Total profit ($217K)
-Monthly profit movement with min/max labels
+# Supports profitability planning.
 
- 4. Profit by Product
-Donut chart showing product-wise profit contribution:
-Tablet, Laptop, Headphones, Mobile, Monitor
+3 Profit Contribution by Product
 
- 5. Revenue vs Cost by Product
-Horizontal bar chart comparing each product's revenue and cost side-by-side
+• Headphones and Laptops contribute the highest share of profit
 
- 6. Top 5 Customers (by Boxes Shipped)
-Highlighting highest-value customers across multiple product categories
+• Tablets also show strong profitability
 
- 7. Top 5 Countries
-Country-wise comparison of:
-Profit
-Total boxes shipped
-# Conclusion
+• Monitors have comparatively lower margins
 
-This Sales Dashboard provides a complete financial overview of the business in 2025, helping stakeholders make strategic decisions to improve profitability and customer focus.Conclusion
+# Guides product pricing and promotion strategy.
 
-This Sales Dashboard provides a complete financial overview of the business in 2025, helping stakeholders make strategic decisions to improve profitability and customer focus.Conclusion
+4 Revenue vs Cost by Product
 
-This Sales Dashboard provides a complete financial overview of the business in 2025, helping stakeholders make strategic decisions to improve profitability and customer focus.
+• Laptops generate high revenue but also high cost
+
+• Headphones show better profit margins
+
+• Helps identify products with cost optimization opportunities
+
+5 Top 5 Customers by Shipping Volume
+
+• Few customers contribute a large portion of total shipments
+
+• Helps business focus on high-value customer retention
+
+6 Country-wise Performance
+
+• Italy and Japan show strong profitability
+
+• Germany and UK have moderate performance
+
+• Enables region-specific sales strategies
+
+# Key Business Takeaways
+
+• Business is highly profitable in 2025
+
+• Certain products deliver higher margins despite lower volume
+
+• Revenue peaks during specific months
+
+• Geographic analysis supports targeted market focus
 # Dashboard
 <img width="1271" height="691" alt="Sales dashboard" src="https://github.com/user-attachments/assets/56915cad-549b-44f2-b82d-310f9985402d" />
