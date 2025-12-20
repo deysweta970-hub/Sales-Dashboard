@@ -4,7 +4,7 @@ This dashboard provides a comprehensive visualization of sales performance for t
 <a href="https://github.com/deysweta970-hub/Sales-Dashboard/commit/d9343a837299cfefeafde2091025c72454661317">Sales Dashboard</a>
 # Project Overview
 
-# This project analyzes 2025 sales performance across products, customers, and countries to help business stakeholders understand revenue, cost, and profit trends.
+This project analyzes 2025 sales performance across products, customers, and countries to help business stakeholders understand revenue, cost, and profit trends.
 The dashboard provides a monthly performance view, product-level profitability, customer contribution, and geographic comparison to support strategic decision-making.
 
 #  Business Objectives
